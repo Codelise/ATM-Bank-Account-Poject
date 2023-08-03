@@ -1,0 +1,5 @@
+& C:/Users/gamer/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/gamer/OneDrive/Desktop/Python Programs for A.I/Python Course/main.py"
+Workout
+Sleep
+Magplantsa
+----
